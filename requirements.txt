@@ -1,0 +1,5 @@
+pypdf==3.9.0
+python-docx==0.8.11
+spacy==3.6.1
+numpy==1.26.4
+requests==2.31.0

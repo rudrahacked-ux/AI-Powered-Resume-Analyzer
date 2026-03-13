@@ -1,0 +1,63 @@
+{
+  "Programming Languages": [
+    "C", "C++", "Java", "Python", "JavaScript",
+    "TypeScript", "Go", "R", "Rust", "Kotlin",
+    "Swift", "PHP"
+  ],
+
+  "Web Development": [
+    "HTML", "CSS", "JavaScript", "React",
+    "Angular", "Vue", "Node.js", "Express.js",
+    "Django", "Flask", "Spring Boot", "REST APIs",
+    "Bootstrap", "jQuery"
+  ],
+
+  "Data Science & Machine Learning": [
+    "Machine Learning", "Deep Learning", "Data Analysis",
+    "TensorFlow", "PyTorch", "Pandas", "NumPy",
+    "Scikit-Learn", "Matplotlib", "Seaborn",
+    "Data Visualization", "Statistics", "Regression",
+    "Classification", "Clustering", "NLP"
+  ],
+
+  "Databases": [
+    "MySQL", "SQLite", "PostgreSQL", "MongoDB",
+    "Oracle", "Redis", "Firebase", "NoSQL", "SQL"
+  ],
+
+  "Cloud & DevOps": [
+    "AWS", "Azure", "Google Cloud", "CI/CD",
+    "Docker", "Kubernetes", "Linux", "Shell Scripting",
+    "Git", "GitHub", "DevOps"
+  ],
+
+  "Software Engineering": [
+    "OOP", "Design Patterns", "Agile", "Scrum",
+    "Software Testing", "Debugging", "Version Control",
+    "System Design", "API Development"
+  ],
+
+  "AI & NLP": [
+    "Natural Language Processing", "Transformers",
+    "OpenAI APIs", "HuggingFace Models", "Prompt Engineering",
+    "Text Classification", "Sentiment Analysis",
+    "Vector Embeddings"
+  ],
+
+  "Cyber Security": [
+    "Network Security", "Penetration Testing",
+    "Cryptography", "Ethical Hacking", "OWASP Top 10",
+    "Vulnerability Assessment", "Kali Linux"
+  ],
+
+  "Mobile Development": [
+    "Android", "Kotlin", "Flutter", "React Native",
+    "iOS Development", "Swift"
+  ],
+
+  "Soft Skills": [
+    "Leadership", "Teamwork", "Communication",
+    "Problem Solving", "Time Management",
+    "Critical Thinking", "Analytical Skills"
+  ]
+}
